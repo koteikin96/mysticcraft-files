@@ -1,0 +1,11 @@
+{
+  "mcVersion": "1.7.10",
+  "loader": "forge",
+  "loaderVersion": "10.13.4.1614",
+  "servers": [
+    {
+      "ip": "89.248.236.148:27118",
+      "lable": "MysticCraft"
+    }
+  ]
+}
