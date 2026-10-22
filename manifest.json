@@ -1,8 +1,8 @@
 {
     "files":  {
-                  "mods/CodeChickenCore-1.7.10-1.0.7.47-universal.jar":  {
-                                                                             "sha1":  "98f63c1705c297517c905a6a07b91d7f5683f131",
-                                                                             "size":  145782
+                  "mods/CodeChickenLib-1.7.10-1.1.3.138-universal.jar":  {
+                                                                             "sha1":  "e7375c9cd5c39dae10cda636e2fd39bab797d017",
+                                                                             "size":  314789
                                                                          },
                   "mods/soundreload-1.0.jar":  {
                                                    "sha1":  "9d278acb127f56ca485e0e26ffec0e23831ec13a",
@@ -112,10 +112,6 @@
                                                                        "sha1":  "5a8b566c655738fe02c749206f3e87d32ce74015",
                                                                        "size":  2316321
                                                                    },
-                  "mods/CodeChickenLib-1.7.10-1.1.3.138-universal.jar":  {
-                                                                             "sha1":  "e7375c9cd5c39dae10cda636e2fd39bab797d017",
-                                                                             "size":  314789
-                                                                         },
                   "mods/appliedenergistics2-rv2-stable-10.jar":  {
                                                                      "sha1":  "7cebee1d108a571b79704c179368d63cadf3a8cc",
                                                                      "size":  2526302
@@ -192,6 +188,10 @@
                                                         "sha1":  "da7c3aace72d65df246822917a206be37de77853",
                                                         "size":  65582
                                                     },
+                  "mods/CodeChickenCore-1.7.10-1.0.7.47-universal.jar":  {
+                                                                             "sha1":  "98f63c1705c297517c905a6a07b91d7f5683f131",
+                                                                             "size":  145782
+                                                                         },
                   "mods/VoxelMap-No-Radar-Mod-1.7.10.jar":  {
                                                                 "sha1":  "6baf34a12cd05dca21776738012b8ebcb2b7bc48",
                                                                 "size":  465815
