@@ -24,10 +24,10 @@
                                                            "sha1":  "176c2c7530440a440b60a1b9f9a21caeb6589155",
                                                            "size":  417651
                                                        },
-                  "mods/1.7.10/ForgeRelocation-1.7.10-0.0.1.4-universal.jar":  {
-                                                                                   "sha1":  "d244ca0d9d0f6d1b9cc68a5aa10779fa51b168c8",
-                                                                                   "size":  386789
-                                                                               },
+                  "mods/Draconic-Evolution-1.7.10-1.0.2h.jar":  {
+                                                                    "sha1":  "c57e734e45a50626e5daf4ddbe5d62c552ea7efc",
+                                                                    "size":  4874507
+                                                                },
                   "mods/mantle-1.7.10-0.3.2b.jar":  {
                                                         "sha1":  "56552968dc8df9a3ad0f909024d086f3748844dc",
                                                         "size":  202458
@@ -56,6 +56,10 @@
                                                              "sha1":  "93c294b2f463890fd9de575e6ce6d71d931bc3f4",
                                                              "size":  3322286
                                                          },
+                  "mods/BrandonsCore-1.0.0.12.jar":  {
+                                                         "sha1":  "39ecb8a041d8e3ada2a159a9f708a7b6bd910bf3",
+                                                         "size":  92269
+                                                     },
                   "mods/neiintegration-mc1.7.10-1.1.2.jar":  {
                                                                  "sha1":  "faa216961fee0d2edb1fb5ad353dae9122db04b7",
                                                                  "size":  197046
@@ -72,10 +76,18 @@
                                                                    "sha1":  "f2254c849c790ec1adc14a7173ef455cf2b483e7",
                                                                    "size":  305645
                                                                },
+                  "mods/SSP-1.1.2-NEW-Photonic_Solar_Panel_1.7.10.jar":  {
+                                                                             "sha1":  "e3e1bef31af9c209af5eb0e3cba4bfe86864369a",
+                                                                             "size":  65186
+                                                                         },
                   "mods/twilightforest-1.7.10-2.3.7.jar":  {
                                                                "sha1":  "80b3f24487fca03f659909adfc235512f6a60d97",
                                                                "size":  3682125
                                                            },
+                  "mods/solaris.jar":  {
+                                           "sha1":  "b6625d11c8acb29dbbe50e7f5f55bad8e78dadea",
+                                           "size":  3238143
+                                       },
                   "mods/1.7.10/CodeChickenLib-1.7.10-1.1.3.138-universal.jar":  {
                                                                                     "sha1":  "e7375c9cd5c39dae10cda636e2fd39bab797d017",
                                                                                     "size":  314789
@@ -84,6 +96,10 @@
                                                           "sha1":  "8be625a36f6021f61ce8e9d9752cc7e27ee5c14b",
                                                           "size":  1262973
                                                       },
+                  "mods/SolarFlux-1.7.10-0.8b.jar":  {
+                                                         "sha1":  "434817ae44fb4bb412c764266b11d28c8c947d16",
+                                                         "size":  174707
+                                                     },
                   "mods/NotEnoughItems-1.7.10-1.0.5.120-universal.jar":  {
                                                                              "sha1":  "a7587d48f19b6e9e8791c0e3d2e9aca3b36882c7",
                                                                              "size":  513136
@@ -180,6 +196,10 @@
                                                          "sha1":  "5abef956579df31d86f54cc20bf7ac8ba7d481a8",
                                                          "size":  2149827
                                                      },
+                  "mods/1.7.10/ForgeRelocation-1.7.10-0.0.1.4-universal.jar":  {
+                                                                                   "sha1":  "d244ca0d9d0f6d1b9cc68a5aa10779fa51b168c8",
+                                                                                   "size":  386789
+                                                                               },
                   "mods/ironchest-1.7.10-6.0.62.742-universal.jar":  {
                                                                          "sha1":  "2888052ca2727a875ac13fa266e74b53e90cfab4",
                                                                          "size":  158104
