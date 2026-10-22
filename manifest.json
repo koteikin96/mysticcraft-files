@@ -1,237 +1,228 @@
-﻿[
-    {
-        "file":  "1.7.10armorstatushud-client-1.28.jar",
-        "size":  27281,
-        "hash":  "591212011B20AE3BBAC8EEC087CA443BA55CD895"
-    },
-    {
-        "file":  "advancedmachinesas-1.7.10.jar",
-        "size":  137893,
-        "hash":  "573A5078C7F91BE58DCDA41994972A4F1762AA27"
-    },
-    {
-        "file":  "AdvancedSolarPanel-1.7.10-3.5.1.jar",
-        "size":  305645,
-        "hash":  "F2254C849C790EC1ADC14A7173EF455CF2B483E7"
-    },
-    {
-        "file":  "appliedenergistics2-rv2-stable-10.jar",
-        "size":  2526302,
-        "hash":  "7CEBEE1D108A571B79704C179368D63CADF3A8CC"
-    },
-    {
-        "file":  "ASP + GS Patcher.jar",
-        "size":  10882,
-        "hash":  "10C0E19B453D18E017AE25D648D18B62F78F6C11"
-    },
-    {
-        "file":  "BrandonsCore-1.0.0.12.jar",
-        "size":  92269,
-        "hash":  "39ECB8A041D8E3ADA2A159A9F708A7B6BD910BF3"
-    },
-    {
-        "file":  "buildcraft-7.1.22.jar",
-        "size":  2553054,
-        "hash":  "3FCBB5839AB542DB19631CF9310775D98690496D"
-    },
-    {
-        "file":  "buildcraft-compat-7.1.5.jar",
-        "size":  257255,
-        "hash":  "194871B49D541B8271F584AC0E220F4E3CB2DCE9"
-    },
-    {
-        "file":  "carpenters-blocks-v3.3.8.1-mc-1.7.10.jar",
-        "size":  513792,
-        "hash":  "637B879D49237F85C0C46A8DE188326A92810B57"
-    },
-    {
-        "file":  "Chisel-2.9.5.11.jar",
-        "size":  6378920,
-        "hash":  "D9E4B54913BBD38543AB873043145E3B4992BF95"
-    },
-    {
-        "file":  "CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
-        "size":  145782,
-        "hash":  "98F63C1705C297517C905A6A07B91D7F5683F131"
-    },
-    {
-        "file":  "Draconic-Evolution-1.7.10-1.0.2h.jar",
-        "size":  4874507,
-        "hash":  "C57E734E45A50626E5DAF4DDBE5D62C552EA7EFC"
-    },
-    {
-        "file":  "extracells-1.7.10-2.3.14b200.jar",
-        "size":  1481351,
-        "hash":  "618E59EFF75F983D000406DF4B34DF1807C346AB"
-    },
-    {
-        "file":  "extrautilities-1.2.12.jar",
-        "size":  2149827,
-        "hash":  "5ABEF956579DF31D86F54CC20BF7AC8BA7D481A8"
-    },
-    {
-        "file":  "forestry_1.7.10-4.2.16.64.jar",
-        "size":  3322286,
-        "hash":  "93C294B2F463890FD9DE575E6CE6D71D931BC3F4"
-    },
-    {
-        "file":  "GraviSuite-1.7.10-2.0.3.jar",
-        "size":  417651,
-        "hash":  "176C2C7530440A440B60A1B9F9A21CAEB6589155"
-    },
-    {
-        "file":  "ic2nuclearcontrol-2.4.2a.jar",
-        "size":  1037004,
-        "hash":  "DE904078068F024745F754C275F263EF8E5CEE24"
-    },
-    {
-        "file":  "industrialcraft-2-2.2.827-experimental.jar",
-        "size":  5633941,
-        "hash":  "A2A24F98EAAB2C4A8FA2583F66590AD8CDEEA405"
-    },
-    {
-        "file":  "InventoryTweaks-1.59-dev-152.jar",
-        "size":  224461,
-        "hash":  "3643E09B93E66C5690DE7B9C3DAA62DA7789E7F5"
-    },
-    {
-        "file":  "ironchest-1.7.10-6.0.62.742-universal.jar",
-        "size":  158104,
-        "hash":  "2888052CA2727A875AC13FA266E74B53E90CFAB4"
-    },
-    {
-        "file":  "Jabba-1.2.2_1.7.10.jar",
-        "size":  445166,
-        "hash":  "75184AE9E39CF0DF7F1E10338E568D02F9992E97"
-    },
-    {
-        "file":  "legacymckotlin-1.0.jar",
-        "size":  1406312,
-        "hash":  "B5C8D6ABF52558E717DBC1FE5BC997B1DCC219E8"
-    },
-    {
-        "file":  "mantle-1.7.10-0.3.2b.jar",
-        "size":  202458,
-        "hash":  "56552968DC8DF9A3AD0F909024D086F3748844DC"
-    },
-    {
-        "file":  "mycommands-1.7.10-04.jar",
-        "size":  65582,
-        "hash":  "DA7C3AACE72D65DF246822917A206BE37DE77853"
-    },
-    {
-        "file":  "natura-1.7.10-2.2.1a2.jar",
-        "size":  901112,
-        "hash":  "95CA39E8FFB89E84192A7D9A2F649E2896A9B561"
-    },
-    {
-        "file":  "neiaddons-1.12.14.40-mc1.7.10.jar",
-        "size":  101777,
-        "hash":  "CAF51BB104D309BC8A51D4DFFC621F48AAA9E0CE"
-    },
-    {
-        "file":  "neiintegration-mc1.7.10-1.1.2.jar",
-        "size":  197046,
-        "hash":  "FAA216961FEE0D2EDB1FB5AD353DAE9122DB04B7"
-    },
-    {
-        "file":  "NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
-        "size":  513136,
-        "hash":  "A7587D48F19B6E9E8791C0E3D2E9ACA3B36882C7"
-    },
-    {
-        "file":  "projectred-1.7.10-4.7.0pre12.95-base.jar",
-        "size":  1432027,
-        "hash":  "A312B9B91FA41913051984E1436ED8E3B19C40CE"
-    },
-    {
-        "file":  "projectred-1.7.10-4.7.0pre12.95-compat.jar",
-        "size":  84757,
-        "hash":  "4E00EC1E5EFB4EBE91A773A75614A011AFEF87B5"
-    },
-    {
-        "file":  "projectred-1.7.10-4.7.0pre12.95-fabrication.jar",
-        "size":  1654657,
-        "hash":  "78C6976167100668DF0774D19291322E4E9B8A97"
-    },
-    {
-        "file":  "projectred-1.7.10-4.7.0pre12.95-integration.jar",
-        "size":  3913048,
-        "hash":  "89065D6E0E34EA3AC8C18E602B2F208BEC8783EA"
-    },
-    {
-        "file":  "projectred-1.7.10-4.7.0pre12.95-lighting.jar",
-        "size":  633621,
-        "hash":  "FE990319D34D0EBA33B589470B57E9AE2773EAFF"
-    },
-    {
-        "file":  "projectred-1.7.10-4.7.0pre12.95-mechanical.jar",
-        "size":  2118480,
-        "hash":  "8FBAED210967A06643F9E04B5D5C207E03E44877"
-    },
-    {
-        "file":  "projectred-1.7.10-4.7.0pre12.95-world.jar",
-        "size":  478879,
-        "hash":  "7573FBB8CFC3E6228724DBE1DA5CF0E641F132CB"
-    },
-    {
-        "file":  "railcraft_1.7.10-9.12.2.0.jar",
-        "size":  3724974,
-        "hash":  "3E259298D954F9C5189914D145B7FE8FB572AAB2"
-    },
-    {
-        "file":  "Recrafted-1.7.10-0.0.1.jar",
-        "size":  1262973,
-        "hash":  "8BE625A36F6021F61CE8E9D9752CC7E27EE5C14B"
-    },
-    {
-        "file":  "SolarFlux-1.7.10-0.8b.jar",
-        "size":  174707,
-        "hash":  "434817AE44FB4BB412C764266B11D28C8C947D16"
-    },
-    {
-        "file":  "soundreload-1.0.jar",
-        "size":  93723,
-        "hash":  "9D278ACB127F56CA485E0E26FFEC0E23831EC13A"
-    },
-    {
-        "file":  "SSP-1.1.2-NEW-Photonic_Solar_Panel_1.7.10.jar",
-        "size":  65186,
-        "hash":  "E3E1BEF31AF9C209AF5EB0E3CBA4BFE86864369A"
-    },
-    {
-        "file":  "TeleportAsk-1.7.10-1.1.3-en.jar",
-        "size":  38184,
-        "hash":  "EA31B2569B30523A998A177C881DA722DECDE18F"
-    },
-    {
-        "file":  "ThermalDynamics-[1.7.10]1.2.1-172.jar",
-        "size":  632485,
-        "hash":  null
-    },
-    {
-        "file":  "ThermalExpansion-[1.7.10]4.1.5-248.jar",
-        "size":  2614932,
-        "hash":  null
-    },
-    {
-        "file":  "ThermalFoundation-[1.7.10]1.2.6-118.jar",
-        "size":  2316321,
-        "hash":  null
-    },
-    {
-        "file":  "twilightforest-1.7.10-2.3.7.jar",
-        "size":  3682125,
-        "hash":  "80B3F24487FCA03F659909ADFC235512F6A60D97"
-    },
-    {
-        "file":  "VoxelMap-No-Radar-Mod-1.7.10.jar",
-        "size":  465815,
-        "hash":  "6BAF34A12CD05DCA21776738012B8EBCB2B7BC48"
-    },
-    {
-        "file":  "[1.7.10]Treecapitator-universal-2.0.4.jar",
-        "size":  94792,
-        "hash":  null
-    }
-]
+{
+    "files":  {
+                  "mods/CodeChickenCore-1.7.10-1.0.7.47-universal.jar":  {
+                                                                             "sha1":  "98f63c1705c297517c905a6a07b91d7f5683f131",
+                                                                             "size":  145782
+                                                                         },
+                  "mods/soundreload-1.0.jar":  {
+                                                   "sha1":  "9d278acb127f56ca485e0e26ffec0e23831ec13a",
+                                                   "size":  93723
+                                               },
+                  "mods/EJML-core-0.26.jar":  {
+                                                  "sha1":  "4d7c1d7b16b80875d7fba8d72b2e24eece176124",
+                                                  "size":  341614
+                                              },
+                  "mods/Chisel-2.9.5.11.jar":  {
+                                                   "sha1":  "d9e4b54913bbd38543ab873043145e3b4992bf95",
+                                                   "size":  6378920
+                                               },
+                  "mods/GraviSuite-1.7.10-2.0.3.jar":  {
+                                                           "sha1":  "176c2c7530440a440b60a1b9f9a21caeb6589155",
+                                                           "size":  417651
+                                                       },
+                  "mods/Draconic-Evolution-1.7.10-1.0.2h.jar":  {
+                                                                    "sha1":  "c57e734e45a50626e5daf4ddbe5d62c552ea7efc",
+                                                                    "size":  4874507
+                                                                },
+                  "mods/InventoryTweaks-1.59-dev-152.jar":  {
+                                                                "sha1":  "3643e09b93e66c5690de7b9c3daa62da7789e7f5",
+                                                                "size":  224461
+                                                            },
+                  "mods/projectred-1.7.10-4.7.0pre12.95-lighting.jar":  {
+                                                                            "sha1":  "fe990319d34d0eba33b589470b57e9ae2773eaff",
+                                                                            "size":  633621
+                                                                        },
+                  "mods/projectred-1.7.10-4.7.0pre12.95-mechanical.jar":  {
+                                                                              "sha1":  "8fbaed210967a06643f9e04b5d5c207e03e44877",
+                                                                              "size":  2118480
+                                                                          },
+                  "mods/mantle-1.7.10-0.3.2b.jar":  {
+                                                        "sha1":  "56552968dc8df9a3ad0f909024d086f3748844dc",
+                                                        "size":  202458
+                                                    },
+                  "mods/[1.7.10]bspkrsCore-universal-6.15.jar":  {
+                                                                     "sha1":  "964bd527d48d2c9eca43304c43a508412bc199f3",
+                                                                     "size":  198933
+                                                                 },
+                  "mods/ASP + GS Patcher.jar":  {
+                                                    "sha1":  "10c0e19b453d18e017ae25d648d18b62f78f6c11",
+                                                    "size":  10882
+                                                },
+                  "mods/forestry_1.7.10-4.2.16.64.jar":  {
+                                                             "sha1":  "93c294b2f463890fd9de575e6ce6d71d931bc3f4",
+                                                             "size":  3322286
+                                                         },
+                  "mods/BrandonsCore-1.0.0.12.jar":  {
+                                                         "sha1":  "39ecb8a041d8e3ada2a159a9f708a7b6bd910bf3",
+                                                         "size":  92269
+                                                     },
+                  "mods/cofhcore-1.7.103.1.4-329.jar":  {
+                                                            "sha1":  "b7d66be19a6898232f5498a50ac0207109a3b2e6",
+                                                            "size":  1230511
+                                                        },
+                  "mods/neiintegration-mc1.7.10-1.1.2.jar":  {
+                                                                 "sha1":  "faa216961fee0d2edb1fb5ad353dae9122db04b7",
+                                                                 "size":  197046
+                                                             },
+                  "mods/advancedmachinesas-1.7.10.jar":  {
+                                                             "sha1":  "573a5078c7f91be58dcda41994972a4f1762aa27",
+                                                             "size":  137893
+                                                         },
+                  "mods/ThermalExpansion-[1.7.10]4.1.5-248.jar":  {
+                                                                      "sha1":  "ae0d16da59401fee4ef4dcda42fa2b85efee96bc",
+                                                                      "size":  2614932
+                                                                  },
+                  "mods/AdvancedSolarPanel-1.7.10-3.5.1.jar":  {
+                                                                   "sha1":  "f2254c849c790ec1adc14a7173ef455cf2b483e7",
+                                                                   "size":  305645
+                                                               },
+                  "mods/SSP-1.1.2-NEW-Photonic_Solar_Panel_1.7.10.jar":  {
+                                                                             "sha1":  "e3e1bef31af9c209af5eb0e3cba4bfe86864369a",
+                                                                             "size":  65186
+                                                                         },
+                  "mods/twilightforest-1.7.10-2.3.7.jar":  {
+                                                               "sha1":  "80b3f24487fca03f659909adfc235512f6a60d97",
+                                                               "size":  3682125
+                                                           },
+                  "mods/ForgeMultipart-1.7.10-1.2.0.345-universal.jar":  {
+                                                                             "sha1":  "34d4354ef1692be305511537c6a9b2ac18b69d7a",
+                                                                             "size":  943474
+                                                                         },
+                  "mods/Recrafted-1.7.10-0.0.1.jar":  {
+                                                          "sha1":  "8be625a36f6021f61ce8e9d9752cc7e27ee5c14b",
+                                                          "size":  1262973
+                                                      },
+                  "mods/SolarFlux-1.7.10-0.8b.jar":  {
+                                                         "sha1":  "434817ae44fb4bb412c764266b11d28c8c947d16",
+                                                         "size":  174707
+                                                     },
+                  "mods/NotEnoughItems-1.7.10-1.0.5.120-universal.jar":  {
+                                                                             "sha1":  "a7587d48f19b6e9e8791c0e3d2e9aca3b36882c7",
+                                                                             "size":  513136
+                                                                         },
+                  "mods/TeleportAsk-1.7.10-1.1.3-en.jar":  {
+                                                               "sha1":  "ea31b2569b30523a998a177c881da722decde18f",
+                                                               "size":  38184
+                                                           },
+                  "mods/railcraft_1.7.10-9.12.2.0.jar":  {
+                                                             "sha1":  "3e259298d954f9c5189914d145b7fe8fb572aab2",
+                                                             "size":  3724974
+                                                         },
+                  "mods/ThermalFoundation-[1.7.10]1.2.6-118.jar":  {
+                                                                       "sha1":  "5a8b566c655738fe02c749206f3e87d32ce74015",
+                                                                       "size":  2316321
+                                                                   },
+                  "mods/CodeChickenLib-1.7.10-1.1.3.138-universal.jar":  {
+                                                                             "sha1":  "e7375c9cd5c39dae10cda636e2fd39bab797d017",
+                                                                             "size":  314789
+                                                                         },
+                  "mods/appliedenergistics2-rv2-stable-10.jar":  {
+                                                                     "sha1":  "7cebee1d108a571b79704c179368d63cadf3a8cc",
+                                                                     "size":  2526302
+                                                                 },
+                  "mods/+UniMixins-all-1.7.10-0.3.1.jar":  {
+                                                               "sha1":  "75f9251b1ac4eeacdce0b86a1a68bd8ff4fbf604",
+                                                               "size":  5519796
+                                                           },
+                  "mods/ic2nuclearcontrol-2.4.2a.jar":  {
+                                                            "sha1":  "de904078068f024745f754c275f263ef8e5cee24",
+                                                            "size":  1037004
+                                                        },
+                  "mods/projectred-1.7.10-4.7.0pre12.95-world.jar":  {
+                                                                         "sha1":  "7573fbb8cfc3e6228724dbe1da5cf0e641f132cb",
+                                                                         "size":  478879
+                                                                     },
+                  "mods/extracells-1.7.10-2.3.14b200.jar":  {
+                                                                "sha1":  "618e59eff75f983d000406df4b34df1807c346ab",
+                                                                "size":  1481351
+                                                            },
+                  "mods/neiaddons-1.12.14.40-mc1.7.10.jar":  {
+                                                                 "sha1":  "caf51bb104d309bc8a51d4dffc621f48aaa9e0ce",
+                                                                 "size":  101777
+                                                             },
+                  "mods/MrTJPCore-1.7.10-1.1.0.33-universal.jar":  {
+                                                                       "sha1":  "298e36a519b4c4466c82dcc95e6343579090b13a",
+                                                                       "size":  753280
+                                                                   },
+                  "mods/projectred-1.7.10-4.7.0pre12.95-integration.jar":  {
+                                                                               "sha1":  "89065d6e0e34ea3ac8c18e602b2f208bec8783ea",
+                                                                               "size":  3913048
+                                                                           },
+                  "mods/ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar":  {
+                                                                               "sha1":  "0c4326ac30af8d958aad18ef164bdf452a26e461",
+                                                                               "size":  25361
+                                                                           },
+                  "mods/carpenters-blocks-v3.3.8.1-mc-1.7.10.jar":  {
+                                                                        "sha1":  "637b879d49237f85c0c46a8de188326a92810b57",
+                                                                        "size":  513792
+                                                                    },
+                  "mods/legacymckotlin-1.0.jar":  {
+                                                      "sha1":  "b5c8d6abf52558e717dbc1fe5bc997b1dcc219e8",
+                                                      "size":  1406312
+                                                  },
+                  "mods/[1.7.10]Treecapitator-universal-2.0.4.jar":  {
+                                                                         "sha1":  "87f540bb1e3b502924044c6482e04c2b8cb8a049",
+                                                                         "size":  94792
+                                                                     },
+                  "mods/Jabba-1.2.2_1.7.10.jar":  {
+                                                      "sha1":  "75184ae9e39cf0df7f1e10338e568d02f9992e97",
+                                                      "size":  445166
+                                                  },
+                  "mods/natura-1.7.10-2.2.1a2.jar":  {
+                                                         "sha1":  "95ca39e8ffb89e84192a7d9a2f649e2896a9b561",
+                                                         "size":  901112
+                                                     },
+                  "mods/1.7.10armorstatushud-client-1.28.jar":  {
+                                                                    "sha1":  "591212011b20ae3bbac8eec087ca443ba55cd895",
+                                                                    "size":  27281
+                                                                },
+                  "mods/projectred-1.7.10-4.7.0pre12.95-compat.jar":  {
+                                                                          "sha1":  "4e00ec1e5efb4ebe91a773a75614a011afef87b5",
+                                                                          "size":  84757
+                                                                      },
+                  "mods/ThermalDynamics-[1.7.10]1.2.1-172.jar":  {
+                                                                     "sha1":  "e22847e8b2286219c1c8833ba264916a6729762d",
+                                                                     "size":  632485
+                                                                 },
+                  "mods/projectred-1.7.10-4.7.0pre12.95-fabrication.jar":  {
+                                                                               "sha1":  "78c6976167100668df0774d19291322e4e9b8a97",
+                                                                               "size":  1654657
+                                                                           },
+                  "mods/mycommands-1.7.10-04.jar":  {
+                                                        "sha1":  "da7c3aace72d65df246822917a206be37de77853",
+                                                        "size":  65582
+                                                    },
+                  "mods/VoxelMap-No-Radar-Mod-1.7.10.jar":  {
+                                                                "sha1":  "6baf34a12cd05dca21776738012b8ebcb2b7bc48",
+                                                                "size":  465815
+                                                            },
+                  "mods/projectred-1.7.10-4.7.0pre12.95-base.jar":  {
+                                                                        "sha1":  "a312b9b91fa41913051984e1436ed8e3b19c40ce",
+                                                                        "size":  1432027
+                                                                    },
+                  "mods/extrautilities-1.2.12.jar":  {
+                                                         "sha1":  "5abef956579df31d86f54cc20bf7ac8ba7d481a8",
+                                                         "size":  2149827
+                                                     },
+                  "mods/ironchest-1.7.10-6.0.62.742-universal.jar":  {
+                                                                         "sha1":  "2888052ca2727a875ac13fa266e74b53e90cfab4",
+                                                                         "size":  158104
+                                                                     },
+                  "mods/buildcraft-7.1.22.jar":  {
+                                                     "sha1":  "3fcbb5839ab542db19631cf9310775d98690496d",
+                                                     "size":  2553054
+                                                 },
+                  "mods/buildcraft-compat-7.1.5.jar":  {
+                                                           "sha1":  "194871b49d541b8271f584ac0e220f4e3cb2dce9",
+                                                           "size":  257255
+                                                       },
+                  "mods/ForgeRelocation-1.7.10-0.0.1.4-universal.jar":  {
+                                                                            "sha1":  "d244ca0d9d0f6d1b9cc68a5aa10779fa51b168c8",
+                                                                            "size":  386789
+                                                                        },
+                  "mods/industrialcraft-2-2.2.827-experimental.jar":  {
+                                                                          "sha1":  "a2a24f98eaab2c4a8fa2583f66590ad8cdeea405",
+                                                                          "size":  5633941
+                                                                      }
+              }
+}
